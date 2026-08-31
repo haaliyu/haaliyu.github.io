@@ -3,18 +3,14 @@ slug: admin
 is_owner: true
 
 name:
-  display: Guillem Hurault
-  given: Guillem
-  family: Hurault
+  display: Hajarat Aliyu
+  given: Hajarat
+  family: Aliyu
 
-role: Senior Data Scientist
+role: Aspiring Data Analyst
 
 bio: |
-  I build probabilistic models of noisy real-world systems to improve decision making.
-  Right now that means forecasting the outcome of sports events; previously it was electricity demand and prices, and before that the progression of eczema severity in patients.
-
-  In particular, I developed expertise in Bayesian modelling, time-series forecasting, and decision analysis.
-  I am also interested in the engineering around models, in order to deploy reproducible, maintainable, and well-tested solutions in production.
+  I am an aspiring Data Analyst transitioning from a background in Petroleum Engineering (B.Eng., Second Class Upper from the University of Port Harcourt). I leverage strong analytical and engineering problem-solving principles to translate raw datasets into clear executive insights. I have completed practical projects utilizing SQL, Excel, and Power BI, and I am actively expanding my analytical skills with Python, Tableau, and advanced data analytics methods.
 
 # Social / academic networking.
 # Icons are namespaced: hero/*, brands/*, academicons/*.
@@ -28,36 +24,23 @@ links:
     url: /contact/
     label: Contact me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/ghurault/
+    url: https://www.linkedin.com/in/hajarat-aliyu/
     label: LinkedIn
   - icon: brands/github
-    url: https://github.com/ghurault
+    url: https://haaliyu.github.io/
     label: GitHub
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=Jjv2KGQAAAAJ&hl
-    label: Google Scholar
   - icon: academicons/cv
     url: uploads/cv.pdf
     label: CV
 
 interests:
-  - Statistics & Machine Learning
-  - Bayesian modelling
-  - Time-series forecasting
-  - Decision analysis
-  - MLOps
-  - Software Engineering
+  - Data Analytics & Business Intelligence
+  - SQL & Database Querying
+  - Power BI & Visual Analytics
+  - Advanced Excel Modeling
+  - Python & Tableau
 
 education:
-  - degree: PhD in Statistical Machine Learning
-    institution: Imperial College London (UK)
-    year: 2022
-  - degree: Master in Engineering
-    institution: Ecole Centrale de Lyon (FR)
-    year: 2018
-  - degree: MSc in Biomedical Engineering
-    institution: Imperial College London (UK)
-    year: 2017
-  - degree: Bachelor in Economics
-    institution: Université Lyon 2 (FR)
+  - degree: Bachelors in Petroleum Engineering
+    institution: University of PortHarcourt Nigeria
     year: 2016
