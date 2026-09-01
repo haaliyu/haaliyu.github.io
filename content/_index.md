@@ -47,6 +47,7 @@ sections:
 
   - block: collection
     id: publications
+    active: false
     content:
       title: Selected Publications
       count: 5
