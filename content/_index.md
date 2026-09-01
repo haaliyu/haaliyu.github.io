@@ -45,16 +45,15 @@ sections:
       show_read_time: false
       show_read_more: false
 
-  # - block: collection
-   #  id: publications
-   #  active: false
-   #  content:
-   #    title: Selected Publications
-   #    count: 5
-   #    filters:
-   #      folders:
-    #       - publications
-   #      featured_only: true
-   #  design:
-   #    view: citation
+  - block: collection
+    id: events
+    content:
+      title: Events
+      count: 5
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+      columns: 1
 ---
