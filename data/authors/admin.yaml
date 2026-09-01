@@ -3,9 +3,7 @@ slug: admin
 is_owner: true
 
 name:
-  display:  
-   Hajarat
-   Aliyu
+  display: Hajarat Aliyu
   given: Hajarat
   family: Aliyu
 
