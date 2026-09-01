@@ -13,14 +13,14 @@ tags: ["data-analytics", "conference", "ai"]
 ### Featured Photos
 
 ![Photo 1](photo1.jpg)
-![Photo 2](photo2.jpg)
+![Photo 4](photo4.jpg)
 ![Photo 3](photo3.jpg)
 
 <details>
 <summary><b>View More Photos</b></summary>
 <br>
 
-![Photo 4](photo4.jpg)
 ![Photo 5](photo5.jpg)
+![Photo 2](photo2.jpg)
 
 </details>
