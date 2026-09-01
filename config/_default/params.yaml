@@ -12,15 +12,15 @@ hugoblox:
   # Site-level branding (for the personal profile, see data/authors/admin.yaml)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    name: "Guillem Hurault"
+    name: "Hajarat Aliyu"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person # person | organization | local_business
     tagline: ""
-    description: "Guillem Hurault personal website"
+    description: "Hajarat Aliyu personal website"
     social:
-      twitter: "ghurault" # Twitter/X handle for Twitter Cards (without @)
+      #twitter: "ghurault" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -156,7 +156,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: true
-    url: "https://github.com/ghurault/ghurault.github.io"
+    url: "https://github.com/haaliyu/haaliyu.github.io"
     branch: main
     content_dir: content
 
