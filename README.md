@@ -1,6 +1,6 @@
 # Personal website
 
-Code to generate my personal website, hosted at <https://ghurault.github.io/>.
+Code to generate my personal website, hosted at <https://haaliyu.github.io/>.
 
 The website is generated with [Hugo Blox](https://hugoblox.com/) — the
 [Academic CV](https://github.com/HugoBlox/hugo-theme-academic-cv) template, built on

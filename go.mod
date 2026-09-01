@@ -1,4 +1,4 @@
-module github.com/ghurault/personal-website
+module github.com/haaliyu/personal-website
 
 go 1.19
 

@@ -1,5 +1,5 @@
 ---
-title: Public speaking
+title: Events
 cms_exclude: true
 
 # View

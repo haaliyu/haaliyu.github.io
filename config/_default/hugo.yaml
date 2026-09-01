@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (also set in params.yaml under hugoblox.identity.name)
-title: Guillem Hurault
+title: Hajarat Aliyu
 # Website URL
-baseURL: 'https://ghurault.github.io/'
+baseURL: 'https://haaliyu.github.io/'
 
 ############################
 ## LANGUAGE
