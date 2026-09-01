@@ -2,7 +2,6 @@
 title: "Make Data Smart Conference 2025"
 event_name: "Make Data Smart 2025"
 location: "Trondheim, Norway"
-authors: false
 abstract: |
   Attended the Make Data Smart 2025 conference focusing on modern data analytics, AI integration, governance, and enterprise data architecture strategies.
 
