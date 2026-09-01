@@ -7,7 +7,7 @@ abstract: |
 
 date: 2025-09-24T09:00:00+02:00
 tags: ["data-analytics", "conference", "ai"]
-profile: false
+
 ---
 
 ### Featured Photos
